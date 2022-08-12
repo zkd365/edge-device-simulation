@@ -36,7 +36,7 @@ You will want to change the IP address to your device's IPv4 address on the foll
 In order to add a new device, follow these steps:
 
 1. Duplicate a device file and rename it to the new device number (i.e. 1, 2, 3, etc.).
-2. You will need to change the IP address from the current value to your device's IPv4 address. Follow the instructions in the section titled `IP Addresses` to change those values in the correct places.
+2. You will need to change the IP address from the current value to your device's IPv4 address. Follow the instructions in the section titled IP Addresses to change those values in the correct places.
 3. In `urb-OFDMA`, copy and paste a new dictionary from line 38 (`self.initial_cfg`). Make sure the device ID is the same as the device ID within the file. See the section below titled Device IDs to generate a new ID.
 
 ## Device IDs

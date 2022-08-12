@@ -14,15 +14,15 @@ Run the python files in this order:
 2. server-OFDMA
 3. the device files
 
-Go to the <u>How to Add a New Device</u> section to add more devices.
+Go to the *How to Add a New Device* section to add more devices.
 
 But first thing's first...
 
 ### Updating Values
 
-When adding new devices, you will want to change the current IP address to your device's IP address (follow the instructions in the <u>IP Address</u> section).
+When adding new devices, you will want to change the current IP address to your device's IP address (follow the instructions in the *IP Address* section).
 
-You'll notice how each device has a unique ID. You will want to add an ID for any new device you add, so follow the instructions in the section below (titled <u>Device IDs</u>) to generate a new ID.
+You'll notice how each device has a unique ID. You will want to add an ID for any new device you add, so follow the instructions in the section below (titled *Device IDs*) to generate a new ID.
 
 Once you've generated a device ID, add it to the following places:
 

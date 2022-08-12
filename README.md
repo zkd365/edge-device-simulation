@@ -42,3 +42,7 @@ In order to add a new device, follow these steps:
 ## Device IDs
 
 Each device has a unique alphanumeric ID. Use the `device_id.py` file to generate a random device ID and add this value to line 34 in the device file, and to the new dictionary you add in the URB.
+
+## Questions?
+
+Reach out to me if you have any further questions about updating files.

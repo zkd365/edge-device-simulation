@@ -1,5 +1,7 @@
 # Edge System Simulation
 
+All of the files you need are in the folder called `simulation`.
+
 ## Instructions
 
 ### Running the Files
